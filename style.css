@@ -1,0 +1,43 @@
+body
+{
+    color: #F3AF25; 
+    
+    background-color: #DCF8FF;
+    background-image: url("fondo.jpg")
+}
+
+.foto{
+    width: 65%;
+    height: 100%;
+    display:block;
+    margin:auto;
+
+}
+.vj{
+    color: #F3AF25;
+    font-size: 10.0em;
+    margin-left:100px;
+    margin-right:25px;
+}
+
+.descargas{
+    color: #F33125;
+    font-size: 5.0em;
+    margin-left:50px;
+    margin-right:25px;
+}
+.letras{
+    font-size: 2.0em;
+    font-family: ;
+    widows: 200px;
+    display:block;
+    margin-left:50px;
+    margin-right:25px;
+
+}
+.home{
+    color: blueviolet;
+    font-size: 5.0em;
+    margin-left:100px;
+    margin-right:25px;
+}
